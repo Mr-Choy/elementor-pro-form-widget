@@ -1,7 +1,7 @@
 # elementor-pro-form-widget
 all the customize settings here
 
-## [1. checking uploud file size](./form-main.js )
+## [ 1. checking uploud file size ](./form-main.js )
 
-## [2. checking uploud file size ( if form inside popup)](./popup-form-main.js )
+## [ 2. checking uploud file size ( if form inside popup) ](./popup-form-main.js )
 
